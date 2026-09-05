@@ -16,7 +16,7 @@ def run_flask():
     app.run(host='0.0.0.0', port=port)
 
 # ၁။ BotFather ထံမှ ရရှိသော API Token ကို ဒီနေရာတွင် ထည့်ပါ
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8490087597:AAFsqPXsqPI1fOFjl7HmRjNk4YGoXID5QR8"
 
 # ၂။ Inline Buttons (နှိပ်လို့ရသော ခလုတ်များ) ဒီဇိုင်း သတ်မှတ်ခြင်း
 keyboard = [
