@@ -23,15 +23,13 @@ FOOTER_TEXT = """
 
 🔗 ဇာတ်ကားကောင်းများကြည့်ရန် Join ပါ:
 https://t.me/+NnNgYUEklMAzMTY1
-https://t.me/moviesourcess 
+https://t.me/moviesourcess
 
 🔗 အမှောင်ကားကြည့်ရန် Join ပါ:
-https://t.me/+ptrKsmvyO3VkMDBl 
+https://t.me/+ptrKsmvyO3VkMDBl
 
-ဈေးနှုန်းသက်သာစွာဖြင့် 
-ကြော်ညာထည့်သွင်းလိုပါက 
-https://t.me/DeDee1123 
-သို့ဆက်သွယ်လိုက်ပါ"""
+ဈေးနှုန်းသက်သာစွာဖြင့် ကြော်ညာထည့်သွင်းလိုပါက 
+https://t.me/DeDee1123 သို့ဆက်သွယ်လိုက်ပါ"""
 
 async def auto_append_link(update: Update, context: ContextTypes.DEFAULT_TYPE):
     post = update.channel_post
